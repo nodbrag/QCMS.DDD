@@ -1,0 +1,16 @@
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue.Repository\bin\Debug\netcoreapp2.2\Sample.Infrastructrue.Repository.deps.json
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue.Repository\bin\Debug\netcoreapp2.2\Sample.Infrastructrue.Repository.dll
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue.Repository\bin\Debug\netcoreapp2.2\Sample.Infrastructrue.Repository.pdb
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue.Repository\bin\Debug\netcoreapp2.2\Sample.Domain.Core.dll
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue.Repository\bin\Debug\netcoreapp2.2\Sample.Domain.dll
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue.Repository\bin\Debug\netcoreapp2.2\Sample.Infrastructrue.dll
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue.Repository\bin\Debug\netcoreapp2.2\Sample.Domain.Core.pdb
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue.Repository\bin\Debug\netcoreapp2.2\Sample.Domain.pdb
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue.Repository\bin\Debug\netcoreapp2.2\Sample.Infrastructrue.pdb
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue.Repository\obj\Debug\netcoreapp2.2\Sample.Infrastructrue.Repository.csprojAssemblyReference.cache
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue.Repository\obj\Debug\netcoreapp2.2\Sample.Infrastructrue.Repository.csproj.CoreCompileInputs.cache
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue.Repository\obj\Debug\netcoreapp2.2\Sample.Infrastructrue.Repository.AssemblyInfoInputs.cache
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue.Repository\obj\Debug\netcoreapp2.2\Sample.Infrastructrue.Repository.AssemblyInfo.cs
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue.Repository\obj\Debug\netcoreapp2.2\Sample.Infrastructrue.Repository.csproj.CopyComplete
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue.Repository\obj\Debug\netcoreapp2.2\Sample.Infrastructrue.Repository.dll
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue.Repository\obj\Debug\netcoreapp2.2\Sample.Infrastructrue.Repository.pdb

@@ -1,0 +1,9 @@
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue\bin\Debug\netcoreapp2.2\Sample.Infrastructrue.deps.json
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue\bin\Debug\netcoreapp2.2\Sample.Infrastructrue.dll
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue\bin\Debug\netcoreapp2.2\Sample.Infrastructrue.pdb
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue\obj\Debug\netcoreapp2.2\Sample.Infrastructrue.csprojAssemblyReference.cache
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue\obj\Debug\netcoreapp2.2\Sample.Infrastructrue.csproj.CoreCompileInputs.cache
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue\obj\Debug\netcoreapp2.2\Sample.Infrastructrue.AssemblyInfoInputs.cache
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue\obj\Debug\netcoreapp2.2\Sample.Infrastructrue.AssemblyInfo.cs
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue\obj\Debug\netcoreapp2.2\Sample.Infrastructrue.dll
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Infrastructrue\obj\Debug\netcoreapp2.2\Sample.Infrastructrue.pdb

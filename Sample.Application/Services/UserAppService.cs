@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Sample.Application.Services
 {
-    public class UserAppService:Interfaces.IUserAppService
+    public class UserAppService:Core.Services.AppServiceBase ,Interfaces.IUserAppService
     {
 
     }

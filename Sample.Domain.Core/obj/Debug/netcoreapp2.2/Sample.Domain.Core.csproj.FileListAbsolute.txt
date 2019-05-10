@@ -1,0 +1,12 @@
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Domain.Core\bin\Debug\netcoreapp2.2\Sample.Domain.Core.deps.json
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Domain.Core\bin\Debug\netcoreapp2.2\Sample.Domain.Core.dll
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Domain.Core\bin\Debug\netcoreapp2.2\Sample.Domain.Core.pdb
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Domain.Core\bin\Debug\netcoreapp2.2\Sample.Infrastructrue.dll
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Domain.Core\bin\Debug\netcoreapp2.2\Sample.Infrastructrue.pdb
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Domain.Core\obj\Debug\netcoreapp2.2\Sample.Domain.Core.csprojAssemblyReference.cache
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Domain.Core\obj\Debug\netcoreapp2.2\Sample.Domain.Core.csproj.CoreCompileInputs.cache
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Domain.Core\obj\Debug\netcoreapp2.2\Sample.Domain.Core.AssemblyInfoInputs.cache
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Domain.Core\obj\Debug\netcoreapp2.2\Sample.Domain.Core.AssemblyInfo.cs
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Domain.Core\obj\Debug\netcoreapp2.2\Sample.Domain.Core.csproj.CopyComplete
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Domain.Core\obj\Debug\netcoreapp2.2\Sample.Domain.Core.dll
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Domain.Core\obj\Debug\netcoreapp2.2\Sample.Domain.Core.pdb

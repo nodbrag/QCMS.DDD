@@ -1,0 +1,14 @@
+F:\study\NetCore\JIME.DDD\Sample.DDD\XUnitTest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\study\NetCore\JIME.DDD\Sample.DDD\XUnitTest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+F:\study\NetCore\JIME.DDD\Sample.DDD\XUnitTest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+F:\study\NetCore\JIME.DDD\Sample.DDD\XUnitTest\bin\Debug\netcoreapp2.2\XUnitTest.deps.json
+F:\study\NetCore\JIME.DDD\Sample.DDD\XUnitTest\bin\Debug\netcoreapp2.2\XUnitTest.runtimeconfig.json
+F:\study\NetCore\JIME.DDD\Sample.DDD\XUnitTest\bin\Debug\netcoreapp2.2\XUnitTest.runtimeconfig.dev.json
+F:\study\NetCore\JIME.DDD\Sample.DDD\XUnitTest\bin\Debug\netcoreapp2.2\XUnitTest.dll
+F:\study\NetCore\JIME.DDD\Sample.DDD\XUnitTest\bin\Debug\netcoreapp2.2\XUnitTest.pdb
+F:\study\NetCore\JIME.DDD\Sample.DDD\XUnitTest\obj\Debug\netcoreapp2.2\XUnitTest.csprojAssemblyReference.cache
+F:\study\NetCore\JIME.DDD\Sample.DDD\XUnitTest\obj\Debug\netcoreapp2.2\XUnitTest.csproj.CoreCompileInputs.cache
+F:\study\NetCore\JIME.DDD\Sample.DDD\XUnitTest\obj\Debug\netcoreapp2.2\XUnitTest.AssemblyInfoInputs.cache
+F:\study\NetCore\JIME.DDD\Sample.DDD\XUnitTest\obj\Debug\netcoreapp2.2\XUnitTest.AssemblyInfo.cs
+F:\study\NetCore\JIME.DDD\Sample.DDD\XUnitTest\obj\Debug\netcoreapp2.2\XUnitTest.dll
+F:\study\NetCore\JIME.DDD\Sample.DDD\XUnitTest\obj\Debug\netcoreapp2.2\XUnitTest.pdb

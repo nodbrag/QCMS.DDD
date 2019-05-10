@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Sample.Application.Dtos
 {
-    class UserDtos
+    public class UserDtos
     {
+
     }
 }

@@ -4,8 +4,9 @@ using System.Text;
 
 namespace Sample.Application.Interfaces
 {
-    public interface IUserAppService
+    public interface IUserAppService:Core.Interfaces.IAppService
     {
+
 
     }
 }

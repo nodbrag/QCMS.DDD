@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Sample.Application.Core.Services
 {
-    public class AppServiceBase:IAppService
+    public class AppServiceBase:Interfaces.IAppService
     {
 
     }
