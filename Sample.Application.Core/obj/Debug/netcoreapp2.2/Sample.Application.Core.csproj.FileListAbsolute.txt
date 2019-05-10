@@ -1,0 +1,8 @@
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Application.Core\obj\Debug\netcoreapp2.2\Sample.Application.Core.csproj.CoreCompileInputs.cache
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Application.Core\obj\Debug\netcoreapp2.2\Sample.Application.Core.AssemblyInfoInputs.cache
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Application.Core\obj\Debug\netcoreapp2.2\Sample.Application.Core.AssemblyInfo.cs
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Application.Core\bin\Debug\netcoreapp2.2\Sample.Application.Core.deps.json
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Application.Core\bin\Debug\netcoreapp2.2\Sample.Application.Core.dll
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Application.Core\bin\Debug\netcoreapp2.2\Sample.Application.Core.pdb
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Application.Core\obj\Debug\netcoreapp2.2\Sample.Application.Core.dll
+F:\study\NetCore\JIME.DDD\Sample.DDD\Sample.Application.Core\obj\Debug\netcoreapp2.2\Sample.Application.Core.pdb
